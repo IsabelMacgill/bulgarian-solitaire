@@ -61,14 +61,7 @@ public class Bulgarian{
         }   
     }
     
-    /*public void printPiles(){
-        for(int i = 0; i<thePiles.size(); i++){
-            int pileNum = i+1;
-            System.out.println("Pile" + pileNum + " "+ thePiles.get(i).toString());
-            
-        }
-        
-    }*/
+ 
     private String makeAnswer(){
         String answer = "";
         int add = 1; 
